@@ -1,0 +1,15 @@
+RELOGIO SPOTPEAR ESP32 C3 - 
+
+Fiz esta firmware para mostrar os seguintes dados
+
+1 - hora e data atual
+2 - dados da minha estação meteorolocia Pessoal
+3 - dados meteorologicos obtidos da site openweathermap (com previsões)
+4 - testa a latência com o site google.com.br
+
+Apos fazer o upload acesse via WIFI pelo celular ou pelo PC, configure seu SSID e senha e se quiser configure o ip fixo
+
+no menu do OTA ou do ip da rede escolhida vai ter a opção de carregar os dados referente as KEYS e tambem do SSID. - sequizer basta preencher o arquivo config.h com estes dados e importar automaticamente 
+que o sistema faze tudo automaticamente.
+
+Sei que sou um péssimo programador, mas vamos aprendendo.
